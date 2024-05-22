@@ -1,0 +1,3 @@
+([('MacTrac',
+   '/Users/justinhartfield/Desktop/Code/MacTrac/dist/MacTrac',
+   'EXECUTABLE')],)
